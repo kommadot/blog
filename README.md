@@ -1,5 +1,5 @@
 # blog
 
-#this is my private blog!!!!
+# this is my private blog!!!!
 
-#Thank You
+# Thank You
